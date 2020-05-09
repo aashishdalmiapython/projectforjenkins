@@ -1,0 +1,108 @@
+{
+  "uid" : "9905ec78709959fa",
+  "name" : "test_login_username_flabel",
+  "fullName" : "test_TC02_Registration#test_login_username_flabel",
+  "historyId" : "9753b03671284b152dd37d586a369b9f",
+  "time" : {
+    "start" : 1588685431963,
+    "stop" : 1588685431986,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1588685423537,
+      "stop" : 1588685431896,
+      "duration" : 8359
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1588685431987,
+      "stop" : 1588685434155,
+      "duration" : 2168
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "Smoke"
+  }, {
+    "name" : "suite",
+    "value" : "test_TC02_Registration"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-IMOG8A1"
+  }, {
+    "name" : "thread",
+    "value" : "7076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_TC02_Registration"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dfd67497c5294040",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588685189036,
+        "stop" : 1588685189060,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "b70d93da92411b3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588684092192,
+        "stop" : 1588684092216,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "a04cbf3295074412",
+      "status" : "broken",
+      "statusDetails" : "PermissionError: [Errno 13] Permission denied: 'C:\\\\FileRead\\\\openpyxlwrite.xlsx'",
+      "time" : {
+        "start" : 1588683326370,
+        "stop" : 1588683326392,
+        "duration" : 22
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "Smoke" ]
+  },
+  "source" : "9905ec78709959fa.json",
+  "parameterValues" : [ ]
+}
