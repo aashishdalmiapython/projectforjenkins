@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue May 05 19:00:31 IST 2020","Tue May 05 19:00:31 IST 2020","23","","test_TC02_Registration","","","","test_login_username_flabel",""
-"passed","Tue May 05 19:00:19 IST 2020","Tue May 05 19:00:20 IST 2020","618","","test_TC01_browser","","","","test_Registration_tab_heading",""
-"passed","Tue May 05 19:00:31 IST 2020","Tue May 05 19:00:31 IST 2020","62","","test_TC02_Registration","","","","test_login_tab_heading",""
-"passed","Tue May 05 19:00:20 IST 2020","Tue May 05 19:00:20 IST 2020","483","","test_TC01_browser","","","","test_Registration_username_flabel",""
